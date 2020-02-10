@@ -1,0 +1,23 @@
+{
+  "name": "nodeiii",
+  "version": "1.0.0",
+  "description": "Opgaver til Node III opgaverne",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonKalmar/nodeIII.git"
+  },
+  "author": "Simon Kalmar Riis Mortensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonKalmar/nodeIII/issues"
+  },
+  "homepage": "https://github.com/SimonKalmar/nodeIII#readme",
+  "dependencies": {
+    "http-server": "^0.12.1",
+    "http-status-codes": "^1.4.0"
+  }
+}
